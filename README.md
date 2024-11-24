@@ -32,7 +32,7 @@ python app.py
 - For users of other platforms (e.g., AWS Lex, Azure Bot Service), manual integration or conversion may be required.
 
 
----
+
 
 ## Tech Stack
 - **Backend**: Python, Flask/FastAPI
