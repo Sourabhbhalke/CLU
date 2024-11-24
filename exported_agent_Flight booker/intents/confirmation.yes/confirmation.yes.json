@@ -1,0 +1,11 @@
+{
+  "name": "f9a87281-ed83-4898-8f7a-388608902f46",
+  "displayName": "confirmation.yes",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "description": "this will assure agent and user that all info provided is correct",
+  "numTrainingPhrases": 23
+}

@@ -1,0 +1,776 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Book me a round trip from ",
+      "auto": true
+    }, {
+      "text": "Amsterdam",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Dubai",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for mid-",
+      "auto": true
+    }, {
+      "text": "April",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for affordable flights to ",
+      "auto": true
+    }, {
+      "text": "Tokyo",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "next month",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you check flights from ",
+      "auto": true
+    }, {
+      "text": "Toronto",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Montreal",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "July 2nd",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Help me book a flight from ",
+      "auto": true
+    }, {
+      "text": "Sydney",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "London",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for Christmas.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need a flight from ",
+      "auto": true
+    }, {
+      "text": "Cancun",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Mexico City",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "July 8th.",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you help me book ",
+      "auto": true
+    }, {
+      "text": "two",
+      "parameterId": "number",
+      "auto": true
+    }, {
+      "text": " business class tickets from ",
+      "auto": true
+    }, {
+      "text": "Dubai",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Paris",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Book a flight for me from Madrid to ",
+      "auto": true
+    }, {
+      "text": "Lisbon",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "next weekend",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need ",
+      "auto": true
+    }, {
+      "text": "3",
+      "parameterId": "number",
+      "auto": true
+    }, {
+      "text": " tickets from ",
+      "auto": true
+    }, {
+      "text": "Tokyo",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Seoul",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for the end of ",
+      "auto": true
+    }, {
+      "text": "this month",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find me a flight to ",
+      "auto": true
+    }, {
+      "text": "Zurich",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " from New ",
+      "auto": true
+    }, {
+      "text": "York",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "the 5th of May",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Help me book a flight from ",
+      "auto": true
+    }, {
+      "text": "Dallas",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "San Francisco",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "December 15th.",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need to book a family trip to ",
+      "auto": true
+    }, {
+      "text": "Hawaii",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "next summer",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Please find me a one-way flight from ",
+      "auto": true
+    }, {
+      "text": "Barcelona",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Rome",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "November",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for a last-minute flight from ",
+      "auto": true
+    }, {
+      "text": "Boston",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Miami",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you arrange flights for my team from ",
+      "auto": true
+    }, {
+      "text": "Singapore",
+      "parameterId": "geo-country",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Bangkok",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " in ",
+      "auto": true
+    }, {
+      "text": "June",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need to book a flight from ",
+      "auto": true
+    }, {
+      "text": "Toronto",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Vancouver",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "April 1st.",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Please book a round trip from ",
+      "auto": true
+    }, {
+      "text": "Sydney",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Auckland",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "February",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you find flights from ",
+      "auto": true
+    }, {
+      "text": "London",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Berlin",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for early ",
+      "auto": true
+    }, {
+      "text": "September",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to use my points to book a flight from ",
+      "auto": true
+    }, {
+      "text": "Los Angeles",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Chicago",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need to reserve a flight from ",
+      "auto": true
+    }, {
+      "text": "Paris",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Tokyo",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "next week",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you help me book a flight to ",
+      "auto": true
+    }, {
+      "text": "New York",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "next month",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "For my wedding anniversary we want to go to ",
+      "auto": true
+    }, {
+      "text": "Seattle",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "Christmas",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to find ",
+      "auto": true
+    }, {
+      "text": "two",
+      "parameterId": "number",
+      "auto": true
+    }, {
+      "text": " seats to ",
+      "auto": true
+    }, {
+      "text": "Panama",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " City on ",
+      "auto": true
+    }, {
+      "text": "July 4th",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to fly in my cousin from ",
+      "auto": true
+    }, {
+      "text": "Montreal",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "August 8th",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Do you have any cheap flights to ",
+      "auto": true
+    }, {
+      "text": "NYC",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "this weekend",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am booking a surprise trip for my mom, can you help arrange that for ",
+      "auto": true
+    }, {
+      "text": "May 10th to May 25th",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Costa Rica",
+      "parameterId": "geo-country",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Help me book a ticket ",
+      "auto": true
+    }, {
+      "text": "from 4/10 to 4/15",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "Mexico City",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Medellin",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "Colombia",
+      "parameterId": "geo-country",
+      "auto": true
+    }, {
+      "text": " please",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Book ",
+      "auto": true
+    }, {
+      "text": "SFO",
+      "parameterId": "currency-name",
+      "auto": true
+    }, {
+      "text": " to MIA on August ",
+      "auto": true
+    }, {
+      "text": "10th one",
+      "parameterId": "ordinal",
+      "auto": true
+    }, {
+      "text": " way",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need a flight ",
+      "auto": true
+    }, {
+      "text": "Saturday",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "LAX",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "San Jose",
+      "parameterId": "geo-city",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Four",
+      "parameterId": "number",
+      "auto": true
+    }, {
+      "text": " business class tickets from ",
+      "auto": true
+    }, {
+      "text": "Taiwan",
+      "parameterId": "geo-country",
+      "auto": true
+    }, {
+      "text": " to ",
+      "auto": true
+    }, {
+      "text": "Dubai",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " for ",
+      "auto": true
+    }, {
+      "text": "June 2nd to 30th",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "My family is visiting ",
+      "auto": true
+    }, {
+      "text": "next week",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " and we need to book ",
+      "auto": true
+    }, {
+      "text": "6",
+      "parameterId": "number",
+      "auto": true
+    }, {
+      "text": " round trip tickets",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to use my reward points to book a flight from Milan in ",
+      "auto": true
+    }, {
+      "text": "October",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you book my flight to ",
+      "auto": true
+    }, {
+      "text": "San Francisco",
+      "parameterId": "geo-city",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "next month",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Book a flight",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

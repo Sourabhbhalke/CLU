@@ -1,0 +1,24 @@
+{
+  "name": "64727047-ff65-47a2-ace1-9ea6e4c11786",
+  "displayName": "confirmed",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "confirmation.yes",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "You’re all set! Look for the tickets in your email later today! " ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "End Flow",
+    "name": "ee32d83d-120a-41b4-ae49-bc1aa13a716d",
+    "description": "when confirmed"
+  } ]
+}

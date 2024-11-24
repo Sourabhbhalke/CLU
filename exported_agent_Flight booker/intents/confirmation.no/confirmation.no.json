@@ -1,0 +1,14 @@
+{
+  "name": "45fe5877-d7ae-4eff-afc9-28c07f024cd5",
+  "displayName": "confirmation.no",
+  "parameters": [ {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  }, {
+    "id": "currency-name",
+    "entityType": "@sys.currency-name"
+  } ],
+  "priority": 500000,
+  "description": "this is Negative confirmation route",
+  "numTrainingPhrases": 12
+}
